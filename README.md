@@ -22,19 +22,19 @@ The project involves the following steps:
 
     1. Develop the connection between PLC and Arduino (through driver).
         1.2 Connect PLC with relays. [Elec. Eng.]
-<img src="images/picture2.png" width="200"> <img src="images/picture23.png" width="135">
+<img src="images/myPicture2.png" width="200"> <img src="images/myPicture1.png" width="135">
         
         1.1 Develop PCB (Printed Circuit Board) for converting 24V -> 5V to use as Arduino input [Board-design].
-<img src="./images/picture8.jpg" width="190"><img src="./images/picture9.png" width="200"><img src="./images/picture10.png" width="200">
+<img src="./images/myPicture7.png" width="190"><img src="./images/myPicture8.png" width="200"><img src="./images/myPicture9.png" width="198">
 
         1.2 Connect relays with the developed PCB board. [Elec. Eng.]
  <img src="./images/arduino.jpg" width="135"> 
 
     2. Design the factory using 3D modeling software. [3D Modeling, Autodesk 3D Max]
-<img src="./images/picture5.1.jpg" width="240"> <img src="./images/picture6.jpg" width="251"> <img src="./images/myPicture3.png" width="400">
+<img src="./images/myPicture5.png" width="240"> <img src="./images/myPicture6.png" width="255"> <img src="./images/picture4.png" width="392">
     
     3. Develop the Unity application for the factory (Oculus Rift). [C#, Unity, Photoshop]
-<img src="./images/picture5.png" 
+<img src="./images/myPicture4.png" 
 width="400">
 
     4. Develop code to connect Arduino with Unity. [C++, Arduino]
