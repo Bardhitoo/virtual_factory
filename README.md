@@ -22,7 +22,7 @@ The project involves the following steps:
 
     1. Develop the connection between PLC and Arduino (through driver).
         1.2 Connect PLC with relays. [Elec. Eng.]
-<img src="./images/picture2.png" width="200"> <img src="./images/picture23.png" width="135">
+<img src="images/picture2.png" width="200"> <img src="images/picture23.png" width="135">
         
         1.1 Develop PCB (Printed Circuit Board) for converting 24V -> 5V to use as Arduino input [Board-design].
 <img src="./images/picture8.jpg" width="190"><img src="./images/picture9.png" width="200"><img src="./images/picture10.png" width="200">
