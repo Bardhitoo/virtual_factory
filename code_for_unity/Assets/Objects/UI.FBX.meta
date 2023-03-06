@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 8e76a3a7802c8e049b7569b202182bc8
+timeCreated: 1519048228
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Pjesa Tjeter
+    100002: table-1-solid10
+    100004: table-1-solid12
+    100006: table-1-solid13
+    100008: table-1-solid14
+    100010: table-1-solid15
+    100012: table-1-solid2
+    100014: table-1-solid20
+    100016: table-1-solid21
+    100018: table-1-solid3
+    100020: table-1-solid4
+    100022: table-1-solid5
+    100024: table-1-solid9
+    100026: Tavolina
+    100028: //RootNode
+    400000: Pjesa Tjeter
+    400002: table-1-solid10
+    400004: table-1-solid12
+    400006: table-1-solid13
+    400008: table-1-solid14
+    400010: table-1-solid15
+    400012: table-1-solid2
+    400014: table-1-solid20
+    400016: table-1-solid21
+    400018: table-1-solid3
+    400020: table-1-solid4
+    400022: table-1-solid5
+    400024: table-1-solid9
+    400026: Tavolina
+    400028: //RootNode
+    2300000: table-1-solid10
+    2300002: table-1-solid12
+    2300004: table-1-solid13
+    2300006: table-1-solid14
+    2300008: table-1-solid15
+    2300010: table-1-solid2
+    2300012: table-1-solid20
+    2300014: table-1-solid21
+    2300016: table-1-solid3
+    2300018: table-1-solid4
+    2300020: table-1-solid5
+    2300022: table-1-solid9
+    2300024: Tavolina
+    3300000: table-1-solid10
+    3300002: table-1-solid12
+    3300004: table-1-solid13
+    3300006: table-1-solid14
+    3300008: table-1-solid15
+    3300010: table-1-solid2
+    3300012: table-1-solid20
+    3300014: table-1-solid21
+    3300016: table-1-solid3
+    3300018: table-1-solid4
+    3300020: table-1-solid5
+    3300022: table-1-solid9
+    3300024: Tavolina
+    4300000: table-1-solid2
+    4300002: table-1-solid3
+    4300004: table-1-solid4
+    4300006: table-1-solid5
+    4300008: table-1-solid9
+    4300010: table-1-solid10
+    4300012: table-1-solid12
+    4300014: table-1-solid13
+    4300016: table-1-solid14
+    4300018: table-1-solid15
+    4300020: table-1-solid20
+    4300022: table-1-solid21
+    4300024: Tavolina
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

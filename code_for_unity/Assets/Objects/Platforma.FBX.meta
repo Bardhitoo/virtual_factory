@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 50d326dd66beca64ea0ce443a34a39eb
+timeCreated: 1519045319
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boss-Extrude006
+    100002: Boss-Extrude1[1]
+    100004: Boss-Extrude1[2]
+    100006: Boss-Extrude1[3]
+    100008: Boss-Extrude2[1]
+    100010: Boss-Extrude2[2]
+    100012: Boss-Extrude2[3]
+    100014: Boss-Extrude3
+    100016: Boss-Extrude4
+    100018: Boss-Extrude5
+    100020: C channel 80 X 8(1)[1]
+    100022: C channel 80 X 8(1)[2]
+    100024: C channel 80 X 8(1)[3]
+    100026: C channel 80 X 8(1)[4]
+    100028: C channel 80 X 8(1)[5]
+    100030: C channel 80 X 8(1)[6]
+    100032: C channel 80 X 8(2)[3]
+    100034: C channel 80 X 8(2)[3]001
+    100036: C channel 80 X 8(2)[4]
+    100038: C channel 80 X 8(2)[4]001
+    100040: Cut-Extrude1[2]
+    100042: Mirror1[2]
+    100044: Mirror1[3]
+    100046: Mirror2[1]
+    100048: Mirror2[2]
+    100050: Mirror2[3]
+    100052: Mirror6[1]
+    100054: Mirror6[2]
+    100056: Mirror6[3]
+    100058: Mirror7[10]
+    100060: Mirror7[10]001
+    100062: Mirror7[11]
+    100064: Mirror7[11]001
+    100066: Mirror7[12]
+    100068: Mirror7[12]001
+    100070: Mirror7[13]
+    100072: Mirror7[13]001
+    100074: Mirror7[14]
+    100076: Mirror7[14]001
+    100078: Mirror7[15]
+    100080: Mirror7[16]
+    100082: Mirror7[17]
+    100084: Mirror7[18]
+    100086: Mirror7[19]
+    100088: Mirror7[1]
+    100090: Mirror7[1]001
+    100092: Mirror7[1]002
+    100094: Mirror7[2]
+    100096: Mirror7[2]001
+    100098: Mirror7[2]002
+    100100: Mirror7[3]
+    100102: Mirror7[3]001
+    100104: Mirror7[3]002
+    100106: Mirror7[4]
+    100108: Mirror7[4]001
+    100110: Mirror7[4]002
+    100112: Mirror7[5]
+    100114: Mirror7[5]001
+    100116: Mirror7[5]002
+    100118: Mirror7[6]
+    100120: Mirror7[6]001
+    100122: Mirror7[6]002
+    100124: Mirror7[6]003
+    100126: Mirror7[7]
+    100128: Mirror7[7]001
+    100130: Mirror7[7]002
+    100132: Mirror7[7]003
+    100134: Mirror7[8]
+    100136: Mirror7[8]001
+    100138: Mirror7[8]002
+    100140: Mirror7[8]003
+    100142: Mirror7[9]
+    100144: Mirror7[9]001
+    100146: Mirror7[9]002
+    100148: Mirror7[9]003
+    100150: Mirror8[1]
+    100152: Mirror8[2]
+    100154: Mirror8[2]001
+    100156: Mirror9[1]
+    100158: Mirror9[2]
+    100160: Mirror9[3]
+    100162: Mirror9[4]
+    100164: //RootNode
+    100166: Sphere001
+    100168: Sphere002
+    100170: Sphere003
+    100172: Sphere004
+    400000: Boss-Extrude006
+    400002: Boss-Extrude1[1]
+    400004: Boss-Extrude1[2]
+    400006: Boss-Extrude1[3]
+    400008: Boss-Extrude2[1]
+    400010: Boss-Extrude2[2]
+    400012: Boss-Extrude2[3]
+    400014: Boss-Extrude3
+    400016: Boss-Extrude4
+    400018: Boss-Extrude5
+    400020: C channel 80 X 8(1)[1]
+    400022: C channel 80 X 8(1)[2]
+    400024: C channel 80 X 8(1)[3]
+    400026: C channel 80 X 8(1)[4]
+    400028: C channel 80 X 8(1)[5]
+    400030: C channel 80 X 8(1)[6]
+    400032: C channel 80 X 8(2)[3]
+    400034: C channel 80 X 8(2)[3]001
+    400036: C channel 80 X 8(2)[4]
+    400038: C channel 80 X 8(2)[4]001
+    400040: Cut-Extrude1[2]
+    400042: Mirror1[2]
+    400044: Mirror1[3]
+    400046: Mirror2[1]
+    400048: Mirror2[2]
+    400050: Mirror2[3]
+    400052: Mirror6[1]
+    400054: Mirror6[2]
+    400056: Mirror6[3]
+    400058: Mirror7[10]
+    400060: Mirror7[10]001
+    400062: Mirror7[11]
+    400064: Mirror7[11]001
+    400066: Mirror7[12]
+    400068: Mirror7[12]001
+    400070: Mirror7[13]
+    400072: Mirror7[13]001
+    400074: Mirror7[14]
+    400076: Mirror7[14]001
+    400078: Mirror7[15]
+    400080: Mirror7[16]
+    400082: Mirror7[17]
+    400084: Mirror7[18]
+    400086: Mirror7[19]
+    400088: Mirror7[1]
+    400090: Mirror7[1]001
+    400092: Mirror7[1]002
+    400094: Mirror7[2]
+    400096: Mirror7[2]001
+    400098: Mirror7[2]002
+    400100: Mirror7[3]
+    400102: Mirror7[3]001
+    400104: Mirror7[3]002
+    400106: Mirror7[4]
+    400108: Mirror7[4]001
+    400110: Mirror7[4]002
+    400112: Mirror7[5]
+    400114: Mirror7[5]001
+    400116: Mirror7[5]002
+    400118: Mirror7[6]
+    400120: Mirror7[6]001
+    400122: Mirror7[6]002
+    400124: Mirror7[6]003
+    400126: Mirror7[7]
+    400128: Mirror7[7]001
+    400130: Mirror7[7]002
+    400132: Mirror7[7]003
+    400134: Mirror7[8]
+    400136: Mirror7[8]001
+    400138: Mirror7[8]002
+    400140: Mirror7[8]003
+    400142: Mirror7[9]
+    400144: Mirror7[9]001
+    400146: Mirror7[9]002
+    400148: Mirror7[9]003
+    400150: Mirror8[1]
+    400152: Mirror8[2]
+    400154: Mirror8[2]001
+    400156: Mirror9[1]
+    400158: Mirror9[2]
+    400160: Mirror9[3]
+    400162: Mirror9[4]
+    400164: //RootNode
+    400166: Sphere001
+    400168: Sphere002
+    400170: Sphere003
+    400172: Sphere004
+    2300000: Boss-Extrude006
+    2300002: Boss-Extrude1[1]
+    2300004: Boss-Extrude1[2]
+    2300006: Boss-Extrude1[3]
+    2300008: Boss-Extrude2[1]
+    2300010: Boss-Extrude2[2]
+    2300012: Boss-Extrude2[3]
+    2300014: Boss-Extrude3
+    2300016: Boss-Extrude4
+    2300018: Boss-Extrude5
+    2300020: C channel 80 X 8(1)[1]
+    2300022: C channel 80 X 8(1)[2]
+    2300024: C channel 80 X 8(1)[3]
+    2300026: C channel 80 X 8(1)[4]
+    2300028: C channel 80 X 8(1)[5]
+    2300030: C channel 80 X 8(1)[6]
+    2300032: C channel 80 X 8(2)[3]
+    2300034: C channel 80 X 8(2)[3]001
+    2300036: C channel 80 X 8(2)[4]
+    2300038: C channel 80 X 8(2)[4]001
+    2300040: Cut-Extrude1[2]
+    2300042: Mirror1[2]
+    2300044: Mirror1[3]
+    2300046: Mirror2[1]
+    2300048: Mirror2[2]
+    2300050: Mirror2[3]
+    2300052: Mirror6[1]
+    2300054: Mirror6[2]
+    2300056: Mirror6[3]
+    2300058: Mirror7[10]
+    2300060: Mirror7[10]001
+    2300062: Mirror7[11]
+    2300064: Mirror7[11]001
+    2300066: Mirror7[12]
+    2300068: Mirror7[12]001
+    2300070: Mirror7[13]
+    2300072: Mirror7[13]001
+    2300074: Mirror7[14]
+    2300076: Mirror7[14]001
+    2300078: Mirror7[15]
+    2300080: Mirror7[16]
+    2300082: Mirror7[17]
+    2300084: Mirror7[18]
+    2300086: Mirror7[19]
+    2300088: Mirror7[1]
+    2300090: Mirror7[1]001
+    2300092: Mirror7[1]002
+    2300094: Mirror7[2]
+    2300096: Mirror7[2]001
+    2300098: Mirror7[2]002
+    2300100: Mirror7[3]
+    2300102: Mirror7[3]001
+    2300104: Mirror7[3]002
+    2300106: Mirror7[4]
+    2300108: Mirror7[4]001
+    2300110: Mirror7[4]002
+    2300112: Mirror7[5]
+    2300114: Mirror7[5]001
+    2300116: Mirror7[5]002
+    2300118: Mirror7[6]
+    2300120: Mirror7[6]001
+    2300122: Mirror7[6]002
+    2300124: Mirror7[6]003
+    2300126: Mirror7[7]
+    2300128: Mirror7[7]001
+    2300130: Mirror7[7]002
+    2300132: Mirror7[7]003
+    2300134: Mirror7[8]
+    2300136: Mirror7[8]001
+    2300138: Mirror7[8]002
+    2300140: Mirror7[8]003
+    2300142: Mirror7[9]
+    2300144: Mirror7[9]001
+    2300146: Mirror7[9]002
+    2300148: Mirror7[9]003
+    2300150: Mirror8[1]
+    2300152: Mirror8[2]
+    2300154: Mirror8[2]001
+    2300156: Mirror9[1]
+    2300158: Mirror9[2]
+    2300160: Mirror9[3]
+    2300162: Mirror9[4]
+    2300164: Sphere001
+    2300166: Sphere002
+    2300168: Sphere003
+    2300170: Sphere004
+    3300000: Boss-Extrude006
+    3300002: Boss-Extrude1[1]
+    3300004: Boss-Extrude1[2]
+    3300006: Boss-Extrude1[3]
+    3300008: Boss-Extrude2[1]
+    3300010: Boss-Extrude2[2]
+    3300012: Boss-Extrude2[3]
+    3300014: Boss-Extrude3
+    3300016: Boss-Extrude4
+    3300018: Boss-Extrude5
+    3300020: C channel 80 X 8(1)[1]
+    3300022: C channel 80 X 8(1)[2]
+    3300024: C channel 80 X 8(1)[3]
+    3300026: C channel 80 X 8(1)[4]
+    3300028: C channel 80 X 8(1)[5]
+    3300030: C channel 80 X 8(1)[6]
+    3300032: C channel 80 X 8(2)[3]
+    3300034: C channel 80 X 8(2)[3]001
+    3300036: C channel 80 X 8(2)[4]
+    3300038: C channel 80 X 8(2)[4]001
+    3300040: Cut-Extrude1[2]
+    3300042: Mirror1[2]
+    3300044: Mirror1[3]
+    3300046: Mirror2[1]
+    3300048: Mirror2[2]
+    3300050: Mirror2[3]
+    3300052: Mirror6[1]
+    3300054: Mirror6[2]
+    3300056: Mirror6[3]
+    3300058: Mirror7[10]
+    3300060: Mirror7[10]001
+    3300062: Mirror7[11]
+    3300064: Mirror7[11]001
+    3300066: Mirror7[12]
+    3300068: Mirror7[12]001
+    3300070: Mirror7[13]
+    3300072: Mirror7[13]001
+    3300074: Mirror7[14]
+    3300076: Mirror7[14]001
+    3300078: Mirror7[15]
+    3300080: Mirror7[16]
+    3300082: Mirror7[17]
+    3300084: Mirror7[18]
+    3300086: Mirror7[19]
+    3300088: Mirror7[1]
+    3300090: Mirror7[1]001
+    3300092: Mirror7[1]002
+    3300094: Mirror7[2]
+    3300096: Mirror7[2]001
+    3300098: Mirror7[2]002
+    3300100: Mirror7[3]
+    3300102: Mirror7[3]001
+    3300104: Mirror7[3]002
+    3300106: Mirror7[4]
+    3300108: Mirror7[4]001
+    3300110: Mirror7[4]002
+    3300112: Mirror7[5]
+    3300114: Mirror7[5]001
+    3300116: Mirror7[5]002
+    3300118: Mirror7[6]
+    3300120: Mirror7[6]001
+    3300122: Mirror7[6]002
+    3300124: Mirror7[6]003
+    3300126: Mirror7[7]
+    3300128: Mirror7[7]001
+    3300130: Mirror7[7]002
+    3300132: Mirror7[7]003
+    3300134: Mirror7[8]
+    3300136: Mirror7[8]001
+    3300138: Mirror7[8]002
+    3300140: Mirror7[8]003
+    3300142: Mirror7[9]
+    3300144: Mirror7[9]001
+    3300146: Mirror7[9]002
+    3300148: Mirror7[9]003
+    3300150: Mirror8[1]
+    3300152: Mirror8[2]
+    3300154: Mirror8[2]001
+    3300156: Mirror9[1]
+    3300158: Mirror9[2]
+    3300160: Mirror9[3]
+    3300162: Mirror9[4]
+    3300164: Sphere001
+    3300166: Sphere002
+    3300168: Sphere003
+    3300170: Sphere004
+    4300000: C channel 80 X 8(1)[1]
+    4300002: C channel 80 X 8(1)[2]
+    4300004: C channel 80 X 8(1)[3]
+    4300006: C channel 80 X 8(1)[4]
+    4300008: C channel 80 X 8(1)[5]
+    4300010: C channel 80 X 8(1)[6]
+    4300012: C channel 80 X 8(2)[3]
+    4300014: C channel 80 X 8(2)[4]
+    4300016: Mirror1[2]
+    4300018: Mirror1[3]
+    4300020: Boss-Extrude3
+    4300022: Boss-Extrude4
+    4300024: Mirror8[2]
+    4300026: Mirror9[2]
+    4300028: Mirror9[3]
+    4300030: Boss-Extrude006
+    4300032: C channel 80 X 8(2)[3]001
+    4300034: C channel 80 X 8(2)[4]001
+    4300036: Mirror8[2]001
+    4300038: Mirror6[1]
+    4300040: Mirror6[2]
+    4300042: Boss-Extrude5
+    4300044: Mirror7[5]
+    4300046: Mirror6[3]
+    4300048: Mirror9[1]
+    4300050: Mirror7[2]
+    4300052: Cut-Extrude1[2]
+    4300054: Boss-Extrude2[1]
+    4300056: Mirror2[1]
+    4300058: Boss-Extrude1[3]
+    4300060: Mirror8[1]
+    4300062: Boss-Extrude2[2]
+    4300064: Boss-Extrude2[3]
+    4300066: Mirror2[3]
+    4300068: Mirror2[2]
+    4300070: Mirror7[18]
+    4300072: Mirror7[19]
+    4300074: Boss-Extrude1[2]
+    4300076: Boss-Extrude1[1]
+    4300078: Mirror9[4]
+    4300080: Mirror7[17]
+    4300082: Mirror7[16]
+    4300084: Mirror7[15]
+    4300086: Mirror7[14]
+    4300088: Mirror7[13]
+    4300090: Mirror7[1]
+    4300092: Mirror7[11]
+    4300094: Mirror7[3]
+    4300096: Mirror7[4]
+    4300098: Mirror7[7]
+    4300100: Mirror7[12]
+    4300102: Mirror7[6]
+    4300104: Mirror7[8]
+    4300106: Mirror7[9]
+    4300108: Mirror7[10]
+    4300110: Mirror7[10]001
+    4300112: Mirror7[11]001
+    4300114: Mirror7[12]001
+    4300116: Mirror7[13]001
+    4300118: Mirror7[14]001
+    4300120: Mirror7[6]001
+    4300122: Mirror7[7]001
+    4300124: Mirror7[8]001
+    4300126: Mirror7[9]001
+    4300128: Mirror7[1]001
+    4300130: Mirror7[2]001
+    4300132: Mirror7[3]001
+    4300134: Mirror7[4]001
+    4300136: Mirror7[5]001
+    4300138: Mirror7[6]002
+    4300140: Mirror7[7]002
+    4300142: Mirror7[1]002
+    4300144: Mirror7[2]002
+    4300146: Mirror7[3]002
+    4300148: Mirror7[4]002
+    4300150: Mirror7[5]002
+    4300152: Mirror7[6]003
+    4300154: Mirror7[7]003
+    4300156: Mirror7[8]002
+    4300158: Mirror7[9]002
+    4300160: Mirror7[8]003
+    4300162: Mirror7[9]003
+    4300164: Sphere001
+    4300166: Sphere002
+    4300168: Sphere003
+    4300170: Sphere004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
