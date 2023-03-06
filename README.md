@@ -31,7 +31,7 @@ The project involves the following steps:
  <img src="./images/arduino.jpg" width="135"> 
 
     2. Design the factory using 3D modeling software. [3D Modeling, Autodesk 3D Max]
-<img src="./images/myPicture5.png" width="240"> <img src="./images/myPicture6.png" width="255"> <img src="./images/picture4.png" width="392">
+<img src="./images/myPicture5.png" width="240"> <img src="./images/myPicture6.png" width="255"> <img src="./images/myPicture3.png" width="365">
     
     3. Develop the Unity application for the factory (Oculus Rift). [C#, Unity, Photoshop]
 <img src="./images/myPicture4.png" 
