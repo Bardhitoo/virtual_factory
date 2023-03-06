@@ -31,16 +31,15 @@ The project involves the following steps:
  <img src="./images/arduino.jpg" width="135"> 
 
     2. Design the factory using 3D modeling software. [3D Modeling, Autodesk 3D Max]
-<img src="./images/picture5.1.jpg" 
-width="240"> <img src="./images/picture6.jpg" width="251"> <img src="./images/picture4.png" width="400">
+<img src="./images/picture5.1.jpg" width="240"> <img src="./images/picture6.jpg" width="251"> <img src="./images/myPicture3.png" width="400">
     
-    6. Develop the Unity application for the factory (Oculus Rift). [C#, Unity, Photoshop]
+    3. Develop the Unity application for the factory (Oculus Rift). [C#, Unity, Photoshop]
 <img src="./images/picture5.png" 
 width="400">
 
-    7. Develop code to connect Arduino with Unity. [C++, Arduino]
+    4. Develop code to connect Arduino with Unity. [C++, Arduino]
 
-    8. Evaluate the system through an experiment in which it must be assembled between Arduino-PLC-Oculus Rift. []
+    5. Evaluate the system through an experiment in which it must be assembled between Arduino-PLC-Oculus Rift. []
 
 <img src="./images/vr_factory.gif" 
 width="400">
