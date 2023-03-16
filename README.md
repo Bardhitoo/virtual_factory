@@ -44,4 +44,8 @@ width="400">
 <img src="./images/vr_factory.gif" 
 width="400">
 
-
+### Contributors:
+* Bardh Rushiti
+* Berat Hasani
+* Adnan Shabani
+* Annea Futko
