@@ -45,7 +45,7 @@ width="400">
 width="400">
 
 ### Contributors:
-* Bardh Rushiti
-* Berat Hasani
-* Adnan Shabani
-* Annea Futko
+* Bardh Rushiti (Unity VR & 3D Virtual Factory Designer, C++ Arduino Interface)
+* Berat Hasani (Unity VR)
+* Adnan Shabani (PCB Designer)
+* Annea Futko (PLC, PCB Designer)
